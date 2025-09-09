@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <title>Hitung Kubus</title>
+      <link rel="stylesheet" href="../style.css" />
+</head>
+
+<body>
+      <!-- ------------------------ Tampilan bagian atas ------------------------- -->
+      <div class="header">
+            <h1 id="header__title">Welcome to My Website</h1>
+      </div>
+
+      <!-- ----------------- Tampilan navigasi bagian kiri ----------------- -->
+      <div class="sidebar">
+            <h2 id="title__sidebar">Menu Navigasi</h2>
+            <nav class="sidebar__nav">
+                  <a href="../index.html" class="sidebar__link">Home</a>
+                  <a href="profile.html" class="sidebar__link">Profile</a>
+                  <a href="sosmed.html" class="sidebar__link">Sosial Media</a>
+                  <a href="hitung-kubus.php" class="sidebar__link active">Hitung Kubus</a>
+            </nav>
+      </div>
+</body>
+
+</html>
